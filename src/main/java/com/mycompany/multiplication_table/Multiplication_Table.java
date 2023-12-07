@@ -2,8 +2,8 @@ package com.mycompany.multiplication_table;
 // importing scanner libary file
 import java.util.Scanner;
 // project has been uploaded to github
-// this is the 1st project of the multiplication  in java 
-// thank you
+// this is the 1st project of the multiplication  in
+// 
 
 public class Multiplication_Table {
 
