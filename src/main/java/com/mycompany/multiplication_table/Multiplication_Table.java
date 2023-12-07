@@ -25,6 +25,7 @@ public class Multiplication_Table {
             System.out.println(""+mul+" x "+i+" = "+(mul*i));
         
         }
+        System.out.println("Thank you for using the service");
         
        
         
