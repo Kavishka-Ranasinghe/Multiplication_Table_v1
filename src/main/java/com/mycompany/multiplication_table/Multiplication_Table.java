@@ -3,7 +3,7 @@ package com.mycompany.multiplication_table;
 import java.util.Scanner;
 // project has been uploaded to github
 // this is the 1st project of the multiplication  in
-// 
+// 2ND COMMIT
 
 public class Multiplication_Table {
 
